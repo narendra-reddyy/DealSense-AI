@@ -4,6 +4,8 @@ An agentic sales deal-risk investigator. Ask "Why is the Contoso deal at risk?" 
 
 Built as a prototype for an agentic AI engineering role. All data is synthetic.
 
+**Demo video (4 min):** https://youtu.be/pKKOKxgCKxQ
+
 ## What it demonstrates
 
 - **MCP server** exposing CRM tools (`get_deal`, `get_emails`, `find_deal`, `propose_followup_task`) over stdio
