@@ -1,0 +1,10 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+tasks.json
+fails.txt
+fails2.txt
+case8.txt
+test.txt
